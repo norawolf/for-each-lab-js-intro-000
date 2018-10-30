@@ -8,4 +8,5 @@ function iterate(callback) {
   let array = ['dog', 'cat', 'horse'];
   array.forEach(callback);
   return array; 
+  debugger;
 }
